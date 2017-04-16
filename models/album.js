@@ -15,4 +15,4 @@ var Album = mongoose.model('Album', AlbumsSchema)
 
 // export
 
-module.exports = Author;
+module.exports = Album;
